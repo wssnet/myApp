@@ -4,3 +4,4 @@
 
 #### Contatos
 - [LinkedIn](https://www.linkedin.com/in/wssnet)
+- [Email](mailto:wss.net@outlook.com)
