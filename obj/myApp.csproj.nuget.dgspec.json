@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Devs\\myApp\\myApp.csproj": {}
+    "D:\\devs\\myApp\\myApp.csproj": {}
   },
   "projects": {
-    "D:\\Devs\\myApp\\myApp.csproj": {
+    "D:\\devs\\myApp\\myApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Devs\\myApp\\myApp.csproj",
+        "projectUniqueName": "D:\\devs\\myApp\\myApp.csproj",
         "projectName": "myApp",
-        "projectPath": "D:\\Devs\\myApp\\myApp.csproj",
+        "projectPath": "D:\\devs\\myApp\\myApp.csproj",
         "packagesPath": "C:\\Users\\willian\\.nuget\\packages\\",
-        "outputPath": "D:\\Devs\\myApp\\obj\\",
+        "outputPath": "D:\\devs\\myApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\willian\\AppData\\Roaming\\NuGet\\NuGet.Config",
